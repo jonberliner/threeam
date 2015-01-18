@@ -1,0 +1,9 @@
+#Container {
+    top: 50%;
+    left: 50%;
+}
+
+#Answer {
+  font-size: 300px;
+  text-align: center;
+}
